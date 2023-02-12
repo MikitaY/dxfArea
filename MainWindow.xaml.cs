@@ -1,12 +1,4 @@
-﻿using Microsoft.Win32;
-using netDxf;
-using netDxf.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Windows;
-using System.Windows.Shapes;
-using Line = netDxf.Entities.Line;
+﻿using System.Windows;
 
 namespace dxfArea
 {
